@@ -20,3 +20,13 @@ This notebook trains a linear regression model (with/without hidden layers) to p
 - NumPy
 - Pandas
 - scikit-learn
+  
+## How to Use
+1. Open `model.ipynb` in Jupyter Notebook.
+2. Run all cells.
+3. Observe training, test results, and loss curves.
+4. (Optional) Adjust learning rate, add hidden layers, or change dataset.
+
+
+## 📎 Author
+Gunjan Sharma   
